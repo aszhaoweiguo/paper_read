@@ -8,5 +8,5 @@ This repository show the report about papers I read
 * paper authors: Niall McLaughlin, Jesus Mar tinez del Rincon, etc <br />
 * paper keywords: Malware Detection, Android, Deep Learning <br />
 
-	这篇论文使用静态操作码作为特征，CNN为模型，达到71%的准确率。
-	虽然准确率不是很高，但是模型训练所需要的时间相对较少，而且内存使用率上是一个常数。
+>这篇论文使用静态操作码作为特征，CNN为模型，达到71%的准确率。
+>虽然准确率不是很高，但是模型训练所需要的时间相对较少，而且内存使用率上是一个常数。
