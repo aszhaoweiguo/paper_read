@@ -4,7 +4,7 @@ This repository show the report about papers I read
 
 
 #### [2017-07-05 Deep Android Malware Detection - Niall McLaughlin, etc](https://github.com/aszhaoweiguo/paper_read/blob/master/papers/Deep_Android_Malware_Detection.md)
-* paper name: Deep Android Malware Detection <br />
+* paper title: Deep Android Malware Detection <br />
 * paper authors: Niall McLaughlin, Jesus Mar tinez del Rincon, etc <br />
 * paper keywords: Malware Detection, Android, Deep Learning <br />
 
