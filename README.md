@@ -22,7 +22,7 @@ This repository show the notes about papers I read and the papers are almost abo
 >之后使用CNN以特征图像作为输入进行分类。使用ROC曲线作为评价标准，在最好的情况下AUC=0.96。
 
 
-#### [2017-04-19 Malware Classification with Recurrent Networks - Rasvan P., etc](/papers/Malware Classification with Recurrent Networks.md)
+#### [2017-04-19 Malware Classification with Recurrent Networks - Rasvan P., etc](/papers/Malware-Classification-with-Recurrent-Networks.md)
 * paper title: Malware Classification with Recurrent Networks <br />
 * paper authors: Rasvan Pascanu, Jack W.Stokes, Hermineh Sanossian, Mady Marinescu, Anil Thomas <br />
 * paper keywords: Malware Classification, Recurrent Neural Network, Deep Learning <br />
