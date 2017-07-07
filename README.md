@@ -29,3 +29,10 @@ This repository show the notes about papers I read and the papers are almost abo
 
 >这篇论文使用ESN作为循环模型进行特征抽取，Max-Pooling做非线性抽样，logistic回归做最后的分类；这样的混合模型达到最好的效果。
 >相对标准的混合三元模型，本文提出的这个混合模型的true positive rate=98.3% & false positive rate=0.1%。
+
+#### [2017-04-12 Efficient Dynamic Malware Analysis Based on Network Behavior Using Deep Learning - Toshiki S., etc](/papers/Efficient_Dynamic_Malware_Analysis_Based_on_Network_Behavior_Using_Deep_Learning.md)
+* paper title: Efficient Dynamic Malware Analysis Based on Network Behavior Using Deep Learning <br />
+* paper authors: Toshiki Shibahara, Taakeshi Yagi, Mitsuaki Akiyama, etc <br />
+
+>这篇论文基于网络行为来确定是否应暂停动态分析的方法，使用RNN模型，在对29,562个恶意软件样本的评估中，提出的方法将分析时间缩短了67.1％，
+Precision=0.976, Recall=0.962, F-measure=0.969。
