@@ -1,6 +1,7 @@
-# paper_read
-
-This repository show the report about papers I read
+# HARD-WORKING
+---------------------------------------------------
+This repository show the notes about papers I read
+这个仓库里是我读的paper时所理解的笔记。
 
 
 #### [2017-07-05 Deep Android Malware Detection - Niall McLaughlin, etc](/papers/Deep_Android_Malware_Detection.md)
