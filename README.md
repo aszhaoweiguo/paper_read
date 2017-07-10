@@ -9,7 +9,7 @@ This repository show the notes about papers I read and the papers are almost abo
 * paper authors: Niall McLaughlin, Jesus Mar tinez del Rincon, etc <br />
 * paper keywords: Malware Detection, Android, Deep Learning <br />
 
->这篇论文使用静态操作码作为特征，CNN为模型，在实验环境下，F-sorce=0.97，在实际环境中，F-sorce=0.71。
+>这篇论文使用静态操作码作为特征，CNN为模型，在实验环境下，F-score=0.97，在实际环境中，F-score=0.71。
 >虽然实际环境中的效果不是特别好，但是模型训练所需要的时间相对较少，而且内存使用率上是一个常数。
 
 
