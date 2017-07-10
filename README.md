@@ -43,4 +43,5 @@ Precision=0.976, Recall=0.962, F-measure=0.969。
 * paper title: A multi-task learning model for malware classification with useful file access pattern from API call sequence <br />
 * paper authors: Xin Wang, Siu Ming Yiu <br />
 
->这篇论文
+>这篇论文使用API调用序列作为model的输入，使用RNN-AE作为特征的抽取，之后的Classifier和Generation不是很明白，最后的结果达到99%+，对这个结果保持观望。
+感觉这个结果和数据集直接相关，个人观点，未进行试验验证。
