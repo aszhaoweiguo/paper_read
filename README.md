@@ -44,4 +44,19 @@ Precision=0.976, Recall=0.962, F-measure=0.969。
 * paper authors: Xin Wang, Siu Ming Yiu <br />
 
 >这篇论文使用API调用序列作为model的输入，使用RNN-AE作为特征的抽取，之后的Classifier和Generation不是很明白，最后的结果达到99%+，对这个结果保持观望。
-感觉这个结果和数据集直接相关，个人观点，未进行试验验证。
+感觉这个结果和数据集直接相关，个人观点，未进行实验验证。
+
+
+#### [2017-03-29 DroidDetector Android Malware Characterization and Detection](/papers/DroidDetector_Android_Malware_Characterization_and_Detection.md)
+* paper title: DroidDetector Android Malware Characterization and Detection <br />
+* paper authors: Zhenlong Yuan, Yongqiang Lu, and Yibo Xue <br />
+* paper keywords:  Android security; malware detection; characterization; deep learning; association rules mining <br />
+
+> 在这项研究中，我们提出将静态分析的特征与动态特征相关联分析Android应用程序，并使用深度学习DBN技巧来表征恶意软件。
+DroidDetector可以实现96.76％的检测精度，优于传统机器学习技术。其中，本文中对数据的处理，特征的抽取的方面值得学习。
+
+#### [2017-03-20 Fingerprinting Android packaging Generating DNAs for malware detection](/papers/Fingerprinting_Android_packaging_Generating_DNAs_for_malware_detection.md)
+* paper title: Fingerprinting Android packaging Generating DNAs for malware detection <br />
+* paper authors: ElMouatez Billah Karbab, Mourad Debbabi, Djedjiga Mouheb <br />
+* paper keywords: Fingerprinting, Malware, Mobile, Android, Fuzzy hashing, Detection, Family attribution <br />
+> this papers
