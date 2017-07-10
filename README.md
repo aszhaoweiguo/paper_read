@@ -52,11 +52,13 @@ Precision=0.976, Recall=0.962, F-measure=0.969。
 * paper authors: Zhenlong Yuan, Yongqiang Lu, and Yibo Xue <br />
 * paper keywords:  Android security; malware detection; characterization; deep learning; association rules mining <br />
 
-> 在这项研究中，我们提出将静态分析的特征与动态特征相关联分析Android应用程序，并使用深度学习DBN技巧来表征恶意软件。
+> 本文中，我们提出将静态分析的特征与动态特征相关联分析Android应用程序，并使用深度学习DBN技巧来表征恶意软件。
 DroidDetector可以实现96.76％的检测精度，优于传统机器学习技术。其中，本文中对数据的处理，特征的抽取的方面值得学习。
 
 #### [2017-03-20 Fingerprinting Android packaging Generating DNAs for malware detection](/papers/Fingerprinting_Android_packaging_Generating_DNAs_for_malware_detection.md)
 * paper title: Fingerprinting Android packaging Generating DNAs for malware detection <br />
 * paper authors: ElMouatez Billah Karbab, Mourad Debbabi, Djedjiga Mouheb <br />
 * paper keywords: Fingerprinting, Malware, Mobile, Android, Fuzzy hashing, Detection, Family attribution <br />
-> this papers
+
+> 本文中，主要是基于静态的反编译，分析其静态特征，建立特征数据库，按照Jaccard Similarity来判断未知样本的标签及其所属家族。
+虽然最后的F-score达到了94%，但是实验的数据集太少。结果展示的形式可以学习借用。
